@@ -22,3 +22,41 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.main-container{
+    margin-left: 0;
+    margin-right: 0;
+}
+.banner {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(-141deg, #263238, #37474F, #78909C);
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    margin: -50px auto;
+}
+.banner h3 {
+    font-size: 50px;    
+}
+.banner a{
+    width: 150px
+}
+.banner .container-main{
+    animation: animate 3s;
+}
+@keyframes animate{
+    0%{
+        opacity: 0;
+        transform: scale(1.5);
+    }
+    100%{
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+.magdy-nav {
+    background: linear-gradient(141deg, #263238, #37474F, #78909C);
+    box-shadow: -5px 0px 4px #000;
+}

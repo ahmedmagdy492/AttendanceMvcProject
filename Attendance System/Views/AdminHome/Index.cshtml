@@ -1,0 +1,75 @@
+﻿@using Attendance_System.IdentityExtentions
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container" style="margin-top:20px">
+    <h2>Administration</h2>
+    <h3>Hello  @User.Identity.GetName()</h3>
+
+  
+    <div class="jumbotron">
+     <div class="row">
+
+         <div class="col-md-3">
+             <div class="panel panel-primary">
+                 <div class="panel-heading">
+                     <h3 class="panel-title">  Users </h3>
+                 </div>
+                 <div class="panel-body">
+                      
+                     <a class="btn btn-success text-center" href="@Url.Action("Index","Users",null)"><i class="fa fa-user" aria-hidden="true"></i> Users</a>
+      
+                     
+                  
+                 </div>
+             </div>
+         </div>
+
+
+         <div class="col-md-3">
+             <div class="panel panel-primary">
+                 <div class="panel-heading">
+                     <h3 class="panel-title"> Departments </h3>
+                 </div>
+                 <div class="panel-body">
+                     <a class="btn btn-success" href="@Url.Action("Index","Departments",null)"><i class="fa fa-users" aria-hidden="true"></i> Departments</a>
+
+                 </div>
+             </div>
+         </div>
+
+
+         <div class="col-md-3">
+             <div class="panel panel-primary">
+                 <div class="panel-heading">
+                     <h3 class="panel-title"> Permissions </h3>
+                 </div>
+                 <div class="panel-body">
+                     <a class="btn btn-success" href="@Url.Action("Index","Departments",null)"><i class="fa fa-star" aria-hidden="true"></i> Permission</a>
+
+                 </div>
+             </div>
+         </div>
+
+
+         <div class="col-md-3">
+             <div class="panel panel-primary">
+                 <div class="panel-heading">
+                     <h3 class="panel-title"> Attendance </h3>
+                 </div>
+                 <div class="panel-body">
+                     <a class="btn btn-success" href="@Url.Action("Index","Departments",null)"><i class="fa fa-calendar" aria-hidden="true"></i> Attendance</a>
+
+                 </div>
+             </div>
+         </div>
+
+     </div>
+
+      
+    </div>
+
+
+
+</div>

@@ -13,5 +13,7 @@ namespace Attendance_System.Models
         [Required]
         public string Name { get; set; }
         public string NickName { get; set; }
+        // you forgot the Navigation Propertry
+        public List<ApplicationUser> Users { get; set; }
     }
 }

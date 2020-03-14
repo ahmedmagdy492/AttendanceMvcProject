@@ -13,7 +13,6 @@ namespace Attendance_System.Models
     public class ApplicationUser : IdentityUser
     {
         [Required]
-        [RegularExpression("^[A-Za-z]+")]
         [MaxLength(50)]
         public string Name { get; set; }
         public string Address { get; set; }
@@ -45,5 +44,7 @@ namespace Attendance_System.Models
         {
             return new ApplicationDbContext();
         }
+
+    
     }
 }

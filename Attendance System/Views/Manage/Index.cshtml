@@ -1,4 +1,5 @@
 ﻿@model Attendance_System.Models.IndexViewModel
+@using Microsoft.AspNet.Identity
 @{
     ViewBag.Title = "Manage";
 }
@@ -30,13 +31,13 @@
         </dd>
         @*
             Phone Numbers can used as a second factor of verification in a two-factor authentication system.
-             
+
              See <a href="https://go.microsoft.com/fwlink/?LinkId=403804">this article</a>
                 for details on setting up this ASP.NET application to support two-factor authentication using SMS.
-             
+
              Uncomment the following block after you have set up two-factor authentication
         *@
-        @*  
+        @*
             <dt>Phone Number:</dt>
             <dd>
                 @(Model.PhoneNumber ?? "None")
@@ -82,6 +83,25 @@
                         </text>
                     }
                 }*@
+        </dd>        
+        <dd>
+            <p id="userid" hidden>@User.Identity.GetUserId()</p>
+            <p class="btn btn-success" style="cursor: pointer;" id="viewAttend">View My Attendance</p>
         </dd>
+        @*<dd>
+            @{ 
+                Html.RenderPartial("ViewMyAttend");
+            }
+        </dd>*@
     </dl>
 </div>
+
+<script>
+    window.onload = () => {
+        const view = document.querySelector('#viewAttend');
+        const userid = document.querySelector('#userid');
+        view.onclick = () => {
+            $.ajax('/Attendance/ViewMyAttend?userid=' + userid.innerText);
+        }
+    }
+</script>

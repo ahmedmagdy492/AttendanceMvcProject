@@ -15,6 +15,7 @@ namespace Attendance_System.Controllers
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
+        private ApplicationDbContext db = new ApplicationDbContext();
 
         public ManageController()
         {
@@ -50,6 +51,13 @@ namespace Attendance_System.Controllers
             }
         }
 
+        //public ActionResult ViewMyAttend(string userid)
+        //{
+        //    var userAttned = db.Attendance.FirstOrDefault(at => at.ApplicationUser.Id == userid);
+
+        //    return PartialView(userAttned);
+        //}
+
         //
         // GET: /Manage/Index
         public async Task<ActionResult> Index(ManageMessageId? message)
@@ -63,7 +71,7 @@ namespace Attendance_System.Controllers
                 : message == ManageMessageId.RemovePhoneSuccess ? "Your phone number was removed."
                 : "";
 
-            var userId = User.Identity.GetUserId();
+            var userId = User.Identity.GetUserId();            
             var model = new IndexViewModel
             {
                 HasPassword = HasPassword(),

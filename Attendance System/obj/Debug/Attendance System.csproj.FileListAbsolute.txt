@@ -196,3 +196,103 @@ C:\Users\Mohamed Beshri Amer\Source\Repos\AttendanceMvcProject\Attendance System
 C:\Users\Mohamed Beshri Amer\Source\Repos\AttendanceMvcProject\Attendance System\obj\Debug\Attendance System.dll
 C:\Users\Mohamed Beshri Amer\Source\Repos\AttendanceMvcProject\Attendance System\obj\Debug\Attendance System.pdb
 C:\Users\Mohamed Beshri Amer\Source\Repos\AttendanceMvcProject\Attendance System\obj\Debug\Attendance System.csprojResolveAssemblyReference.cache
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\ApplicationInsights.config
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\csc.exe
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\csc.exe.config
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\csc.rsp
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\csi.exe
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\csi.rsp
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\System.AppContext.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\vbc.exe
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\vbc.exe.config
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\vbc.rsp
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\VBCSCompiler.exe
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Attendance System.dll.config
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Attendance System.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Attendance System.pdb
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Antlr3.Runtime.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\EntityFramework.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\EntityFramework.SqlServer.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AI.Web.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Newtonsoft.Json.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Owin.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.Helpers.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.Mvc.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.Optimization.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.Razor.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.WebPages.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.WebPages.Razor.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\WebGrease.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.Helpers.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.Mvc.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.Optimization.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.Razor.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.WebPages.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\System.Web.WebPages.Razor.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Antlr3.Runtime.pdb
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Newtonsoft.Json.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\EntityFramework.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\EntityFramework.SqlServer.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\bin\Microsoft.AI.Web.xml
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\obj\Debug\Attendance System.csprojAssemblyReference.cache
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\obj\Debug\Attendance_System.Migrations.initalmodel.resources
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\obj\Debug\Attendance_System.Migrations.Version1.resources
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\obj\Debug\Attendance System.csproj.GenerateResource.cache
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\obj\Debug\Attendance System.csproj.CopyComplete
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\obj\Debug\Attendance System.dll
+C:\Users\AhmeD-Magdy\Documents\GitHub\AttendanceMvcProject\Attendance System\obj\Debug\Attendance System.pdb

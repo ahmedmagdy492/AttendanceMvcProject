@@ -26,6 +26,7 @@
                 if (User.IsInRole("Security"))
                 {
                    <h2>Security</h2>
+                <h4>Hello @User.Identity.GetName()</h4>
                   <a class="btn btn-success" href="#"> Security Panel</a>
                   
                 }
@@ -39,6 +40,7 @@
                 else if (User.IsInRole("Student"))
                 {
                     <h2>Student</h2>
+                    <h4>Hello @User.Identity.GetName()</h4>
                     <a class="btn btn-success" href="#"> Student Panel</a>
 
 

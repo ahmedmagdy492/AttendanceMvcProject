@@ -14,10 +14,16 @@
 
     <div class="container">
 
+
+
         <div class="login-container">
 
             @using (Html.BeginForm())
             {
+
+                <div>
+                    @Html.ValidationSummary()
+                </div>
                 <div class="login-shadow">
                     <img class="image-rounded" src="https://www.marefa.org/images/thumb/0/04/National_Security_Agency.svg/200px-National_Security_Agency.svg.png" />
                     <div class="control-container">

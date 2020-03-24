@@ -89,8 +89,11 @@ namespace Attendance_System.Controllers
 
                 };
 
-                users.Create(user, viewModel.Password);
-                users.AddToRole(user.Id, viewModel.RoleId);
+              IdentityResult Result =  users.Create(user, viewModel.Password);
+                if (Result.Succeeded)
+                {
+                    users.AddToRole(user.Id, viewModel.RoleId);
+                }
 
                 return RedirectToAction("Index");
 
@@ -199,6 +202,7 @@ namespace Attendance_System.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [ActionName("Delete")]
         public ActionResult DeleteConfirm(string ID)
         {
 
@@ -213,6 +217,7 @@ namespace Attendance_System.Controllers
 
             }
             context.Users.Remove(user);
+            context.SaveChanges();
             return RedirectToAction("Index");
 
         }
